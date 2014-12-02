@@ -1,0 +1,41 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/rich/workspace/carbon/app/assets/" . "javascripts/")
+ ("/Users/rich/workspace/" . "carbon/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/rich/nag/lib/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "nag.lisp"
+ "#test.lisp#"
+ "test.lisp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/rich/nag/lib/" (21625 15618 0 0) "nag.lisp" "nag.lib" "nag.fas" "each-file-line.lisp" ".#nag.lisp" "#test.lisp#" "##test.lisp##" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.3/share/emacs/24.3/etc/" (21585 15392 0 0) "yow.lines" "WHY-FREE" "tutorials/" "TODO" "themes/" "THE-GNU-PROJECT" "TERMS" "srecode/" "spook.lines" "sex.6" "ses-example.ses" "SERVICE" "schema/" "rgb.txt" "refcards/" "README" "publicsuffix.txt" "ps-prin1.ps" "ps-prin0.ps" "PROBLEMS" "ORG-NEWS" "org/" "ORDERS" "NXML-NEWS" "nxml/" "NEXTSTEP" "NEWS.23" "NEWS.22" "NEWS.21" "NEWS.20" "NEWS.19" "NEWS.18" "NEWS.1-17" "NEWS" "MOTIVATION" "MORE.STUFF" "MH-E-NEWS" "MAILINGLISTS" "MACHINES" "LINUX-GNU" "JOKES" "INTERVIEW" "images/" "HELLO" "grep.txt" "gnus-tut.txt" "GNUS-NEWS" "gnus/" "GNU" "future-bug" "FTP" "forms/" "ETAGS.README" "ETAGS.EBNF" "ERC-NEWS" "enriched.doc" "emacs.icon" "emacs.desktop" "emacs-buffer.gdb" "edt-user.el" "echo.msg" "e/" "DOC-24.3.1" "DISTRIB" "DEVEL.HUMOR" "DEBUG" "copying.paper" "COPYING" "COOKIES" "CONTRIBUTE" "condom.1" "compilation.txt" "charsets/" "CENSORSHIP" "celibacy.1" "AUTHORS" "../" "./")
+
+ ("/Users/rich/Dropbox/Todotxt/" (21269 65227 0 0) "todo.txt~" "todo.txt" "todo.org" "orgmode.org~" "orgmode.org" ".#todo.txt" "#todo.txt#" "#orgmode.txt#" "../" "./")
+
+ ("/Users/rich/workspace/carbon/app/assets/javascripts/" (21246 28892 0 0) "viewmodels/" "geolocation.js" "controllers/" "components/" "common/" "Bootstrap.coffee" "application.js" "app.coffee" "../" "./")
+
+ ("/Users/rich/workspace/carbon/app/assets/" (21094 62237 0 0) "stylesheets/" "javascripts/" "images/" ".DS_Store" "../" "./")
+
+ ("/Users/rich/workspace/" (21226 49770 0 0) "tpp/" "ticketevolution-ruby/" "ticketevo.vim/" "teconnect/" "tags" "simple_server.js" "seatgeek/" "pos.rb/" "ordererrors/" "notes/" "iplookup/" "exchange/" "evochat/" "elixirchat/" "disk_usage.txt" "developer_support/" "dashboard/" "config/" "chrome-extension/" "cheaptickets/" "carbon/" "apic/" ".DS_Store" "../" "./")
+
+ ("/Users/rich/workspace/carbon/app/" (21231 48912 0 0) "views/" "uploaders/" "presenters/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/rich/workspace/carbon/" (21260 60899 0 0) "vendor/" "tmp/" "tags" "spec/" "script/" "README.md" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "features/" "doc/" "db/" "config.ru" "config/" "Capfile" "app/" ".ruby-version" ".ruby-gemset" ".rspec" ".gitignore" ".git/" ".DS_Store" ".bundle/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

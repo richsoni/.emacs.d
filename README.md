@@ -1,5 +1,19 @@
 # Install Slime
-http://www.mohiji.org/2011/01/31/modern-common-lisp-on-linux/
+## Install clisp
+```bash
+$ brew install clisp
+```
+
+```bash
+$ wget http://beta.quicklisp.org/quicklisp.lisp
+```
+
+```lisp
+> (load "/path/to/quicklisp.lisp")
+> (quicklisp-quickstart:install)
+> (ql:add-to-init-file)
+> (ql:quickload "quicklisp-slime-helper")
+```
 
 # Jim Weirich's Emacs Setup
 

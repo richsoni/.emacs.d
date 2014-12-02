@@ -6,6 +6,7 @@
   '(
       better-defaults
       paredit
+      coffee-mode
       idle-highlight-mode
       ido-ubiquitous
       find-file-in-project
@@ -22,7 +23,7 @@
 
 (load (expand-file-name "~/quicklisp/slime-helper.el"))
 (setq inferior-lisp-program "clisp")
-
+(custom-set-variables '(coffee-tab-width 2))
 (global-set-key (kbd "M-x") 'smex)
 (global-set-key (kbd "M-X") 'smex-major-mode-commands)
 ;; This is your old M-x.
@@ -32,3 +33,5 @@
 (global-set-key (kbd "M-?") 'mark-paragraph)
 (global-set-key (kbd "C-h") 'delete-backward-char)
 (global-set-key (kbd "M-h") 'backward-kill-word)
+(define-key global-map (kbd "RET") 'newline-and-indent)
+

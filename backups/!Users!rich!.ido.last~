@@ -2,17 +2,34 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/rich/workspace/carbon/nodify/src/apps/" . "checkout/")
+ ("/Users/rich/workspace/carbon/nodify/src/" . "apps/")
+ ("/Users/rich/workspace/carbon/nodify/" . "src/")
+ ("/Users/rich/workspace/carbon/" . "nodify/")
+ ("/Users/rich/quicklinks/notes/books/ansi-common-lisp/" . "chapters/")
+ ("/Users/" . "rich/")
+ ("/" . "Users/")
+ ("/Users/rich/quicklinks/blog/" . "_posts/")
+ ("/Users/rich/quicklinks/" . "blog/")
+ ("/Users/rich/" . ".emacs.d/")
  ("/Users/rich/workspace/carbon/app/assets/" . "javascripts/")
  ("/Users/rich/workspace/" . "carbon/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/rich/workspace/carbon/nodify/src/apps/checkout/"
+ "/Users/rich/workspace/carbon/nodify/src/"
+ "/Users/rich/.emacs.d/"
  "/Users/rich/nag/lib/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "router.coffee"
+ "app.coffee"
+ "init.el"
+ "README.md"
  "nag.lisp"
  "#test.lisp#"
  "test.lisp"
@@ -20,11 +37,45 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/rich/" (21629 56741 0 0) "workspace/" "VirtualBox VMs/" "tmp/" "temp.txt" "standing.txt" "standing.rb" "sicp-pdf/" "scrap" "Roms/" "README.md" "reactjs.docset/" "quicklisp/" "quicklinks/" "Public/" "pom" "Pictures/" "pgadmin.log" "pg_upgrade_utility.log" "pg_upgrade_server.log" "pg_upgrade_internal.log" "oblique-fortunes/" "nag/" "Music/" "Movies/" "mbox" "Mail/" "Library/" "lib/" "ir_black_rs.itermcolors" "index.html.1" "index.html" "iMacros/" "hipsterz" "Google Drive/" "github/" "example/" "Dropbox/" "Downloads/" "dotfiles.bak/" "dotfiles/" "Documents/" "disk_usage.txt" "dev/" "Desktop/" "dead.letter" "Code/" "bin/" "Applications/" ".zshrc" ".zsh_history" ".zlogin" ".zcompdump" ".Xauthority" ".viper~" ".viper" ".vimrc" ".vimperator/" ".viminfz.tmp" ".viminfy.tmp" ".viminfx.tmp" ".viminfw.tmp" ".viminfo.tmp" ".viminfo" ".vimgolf/" ".vim/" ".vagrant.d/" ".Trash/" ".tmux.conf" ".thinkorswim/" ".subversion/" ".ssh_bak/" ".ssh/" ".sqlite_history" ".smex-items" ".slocdata/" ".slime-history.eld" ".slime/" ".sh_history" ".rvm/" ".rnd" ".Rhistory" ".rake/" ".psql_history" ".pryrc" ".pry_history" ".pry_hist_snapshot" ".pry_hist_snap" ".profile" ".pgpass" ".pgadmin_histoqueries" ".pairs" ".npmrc" ".npm/" ".node-gyp/" ".netrc" ".neocomplcache/" ".nagrc" ".nag/" ".mongorc.js" ".mix/" ".m2/" ".lynxrc" ".local/" ".links/" ".lesshst" ".lein/" ".irssi/" ".irb_history" ".irb-history" ".inputrc" ".ido.last~" ".ido.last" ".htoprc" ".hgignore_global" ".heroku/" ".guard_history" ".gitignore_global" ".gitconfig" ".gem/" ".fzf.zsh" ".fzf.bash" ".fzf/" ".forever/" ".fontconfig/" ".emacs.d/" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".ctags" ".cpan/" ".config/" ".coffee_history" ".clrc" ".cl" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bin/" ".bashrc" ".bash_profile" ".bash_history" ".atom/" ".android/" ".agignore" ".adobe/" ".ackrc" "#dead.letter#" "../" "./")
+ ("/Users/rich/" (21630 7494 0 0) "workspace/" "VirtualBox VMs/" "tmp/" "temp.txt" "standing.txt" "standing.rb" "sicp-pdf/" "scrap" "Roms/" "README.md" "reactjs.docset/" "quicklisp/" "quicklinks/" "Public/" "pom" "Pictures/" "pgadmin.log" "pg_upgrade_utility.log" "pg_upgrade_server.log" "pg_upgrade_internal.log" "oblique-fortunes/" "nag/" "Music/" "Movies/" "mbox" "Mail/" "Library/" "lib/" "ir_black_rs.itermcolors" "index.html.1" "index.html" "iMacros/" "hipsterz" "Google Drive/" "github/" "example/" "Dropbox/" "Downloads/" "dotfiles.bak/" "dotfiles/" "Documents/" "disk_usage.txt" "dev/" "Desktop/" "dead.letter" "Code/" "bin/" "Applications/" ".zshrc" ".zsh_history" ".zlogin" ".zcompdump" ".Xauthority" ".viper~" ".viper" ".vimrc" ".vimperator/" ".viminfz.tmp" ".viminfy.tmp" ".viminfx.tmp" ".viminfw.tmp" ".viminfo.tmp" ".viminfo" ".vimgolf/" ".vim/" ".vagrant.d/" ".Trash/" ".tmux.conf" ".thinkorswim/" ".subversion/" ".ssh_bak/" ".ssh/" ".sqlite_history" ".smex-items" ".slocdata/" ".slime-history.eld" ".slime/" ".sh_history" ".rvm/" ".rnd" ".Rhistory" ".rake/" ".psql_history" ".pryrc" ".pry_history" ".pry_hist_snapshot" ".pry_hist_snap" ".profile" ".pgpass" ".pgadmin_histoqueries" ".pairs" ".npmrc" ".npm/" ".node-gyp/" ".netrc" ".neocomplcache/" ".nagrc" ".nag/" ".mongorc.js" ".mix/" ".m2/" ".lynxrc" ".local/" ".links/" ".lesshst" ".lein/" ".irssi/" ".irb_history" ".irb-history" ".inputrc" ".ido.last~" ".ido.last" ".htoprc" ".hgignore_global" ".heroku/" ".guard_history" ".gitignore_global" ".gitconfig" ".gem/" ".fzf.zsh" ".fzf.bash" ".fzf/" ".forever/" ".fontconfig/" ".emacs.d/" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".ctags" ".cpan/" ".config/" ".coffee_history" ".clrc" ".clisprc.lisp" ".cl" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bin/" ".bashrc" ".bash_profile" ".bash_history" ".atom/" ".android/" ".agignore" ".adobe/" ".ackrc" "#dead.letter#" "../" "./")
 
- ("/Users/rich/nag/" (21628 28146 0 0) "todo.txt" "README.md" "nagrc.symlink" "nag.symlink/" "nag" "lib/" "bin/" ".git/" "../" "./")
+ ("/Users/rich/.emacs.d/" (21630 7511 0 0) "rich/" "README.md" "places" "init.el" "elpa/" "backups/" "auto-save-list/" ".git/" "../" "./")
 
- ("/Users/rich/nag/lib/" (21629 56806 0 0) "nag.lisp" "nag.lib" "nag.fas" "each-file-line.lisp" "../" "./")
+ ("/Users/rich/workspace/carbon/nodify/src/apps/checkout/" (21619 41066 0 0) "sameAsShippingCheckbox.coffee" "router.coffee" "rootComponent.coffee" "orderModel.coffee" "controller.coffee" "app.coffee" "../" "./")
+
+ ("/Users/rich/workspace/carbon/nodify/src/apps/" (21587 61585 0 0) "orderShow/" "header/" "eventShow/" "eventList/" "customerLogin/" "checkout/" "../" "./")
+
+ ("/Users/rich/workspace/carbon/nodify/src/" (21595 48132 0 0) "vendor/" "sharedComponents/" "reactMixins/" "npm-debug.log" "lib/" "backboneMixins/" "apps/" "app.coffee" "../" "./")
+
+ ("/Users/rich/workspace/carbon/nodify/" (21594 26407 0 0) "test/" "tags" "src/" "package.json" "node_modules/" "dist/" "bin/" "../" "./")
+
+ ("/Users/rich/workspace/carbon/app/" (21525 57806 0 0) "views/" "uploaders/" "services/" "presenters/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/rich/workspace/carbon/" (21587 61585 0 0) "vendor/" "todo" "tmp/" "test/" "style.css" "spec/" "script/" "scraps/" "README.md" "Rakefile" "public/" "npm-debug.log" "nodify/" "log/" "lib/" "Gemfile.lock" "Gemfile" "fixtures/" "features/" "doc/" "db/" "config.ru" "config/" "Capfile" "bin/" "app/" ".travis.yml" ".ruby-version" ".ruby-gemset" ".rspec" ".gitignore" ".git/" ".each {|bucket|" ".DS_Store" ".bundle/" "../" "./")
+
+ ("/Users/rich/nag/lib/" (21628 55809 0 0) "nag.lisp" "nag.lib" "nag.fas" "each-file-line.lisp" "../" "./")
+
+ ("/Users/rich/quicklinks/notes/books/ansi-common-lisp/chapters/" (21629 50805 0 0) "8.md" "7/" "6/" "5/" "4/" "3/" "2/" "1/" ".#8.md" "#8.md#" "../" "./")
+
+ ("/Users/rich/quicklinks/notes/books/ansi-common-lisp/problems/7/" (21629 15392 0 0) "str-subst-txt-output
+" "str-subst-txt-output" "str-subst-txt-outpu
+" "str-subst-txt" "my-string-subst.lisp" "index1.lisp" "index.lisp" "../" "./")
+
+ ("/Users/" (21585 9459 0 0) "Shared/" "rich/" "dev/" ".localized" "../" "./")
+
+ ("/Users/rich/quicklinks/blog/_posts/" (21628 30220 0 0) "2014-11-02-what-came-first-the-hacker-or-the-hack.md" "2014-11-02-updates.md" "2014-09-29-gitwitit.md" "2014-09-23-ecliptic.md" "2014-07-28-lucid.md" "2014-04-18-pragmatic-guide-to-becoming-a-productivity-alchemist.md" "2014-04-17-leaders-eat-last.md" "2014-03-17-10-skills-every-developer-should-master-revisited.md" "2014-02-12-listening-to-bob-dylan-can-inspire-improved-health-and-wellbeing.md" "2014-02-04-why-you-may-be-missing-out-if-you-dont-use-tmux.md" "2014-02-01-when-creating-anything,-think-like-the-beatles.md" "2014-01-14-practical-uses-for-bash-globbing.md" "2014-01-06-interview-question-which-exit-to-choose.md" "2013-12-29-how-to-boost-productivity-with-symlinks.md" "2013-12-28-4-stereotypical-technology-users-(starwars-edition).md" "2013-12-13-vagabonding.md" "2013-12-04-the-red-queen.md" "2013-12-03-how-i-use-github-pages-to-host-my-blog.md" "2013-12-02-practical-vim.md" "2013-12-02-10-skills-every-developer-should-master.md" ".DS_Store" "../" "./")
+
+ ("/Users/rich/quicklinks/blog/" (21628 29938 0 0) "todo.txt" "test/" "src/" "sass/" "resume.html" "package.json" "node_modules/" "js/" "index.html" "img/" "images/" "fonts/" "feed/" "css/" "contact.html" "CNAME" "bin/" "assets/" "_site/" "_publish/" "_posts/" "_layouts/" "_includes/" "_config.yml" ".sass-cache/" ".ruby-version" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/rich/quicklinks/" (21612 40948 0 0) "typing_speed/" "roflt/" "roadmap/" "react-components/" "prog_graph/" "pomodoro/" "npm-debug.log" "notes/" "lyrics/" "journal/" "irish/" "gifficult/" "exchange_sync/" "ex_stat/" "blog/" "biograph/" "4hb/" "2do/" "../" "./")
+
+ ("/Users/rich/quicklinks/notes/" (21609 8604 0 0) "scrap/" "MBA/" "Lectures/" "irish/" "books/" "../" "./")
+
+ ("/Users/rich/quicklinks/notes/books/" (21607 51434 0 0) "tdd-beck/" "structure-and-interpretation-of-computer-programs/" "practical-node/" "introduction-to-algorithms/" "ansi-common-lisp/" "7l7w/" "../" "./")
+
+ ("/Users/rich/quicklinks/notes/books/ansi-common-lisp/" (21607 58302 0 0) "problems/" "chapters/" "bin/" ".git/" "../" "./")
+
+ ("/Users/rich/quicklinks/notes/books/ansi-common-lisp/problems/" (21622 8937 0 0) "7/" "6/" "5/" "4/" "3/" "2/" "1/" "../" "./")
 
  ("/usr/local/Cellar/emacs/24.3/share/emacs/24.3/etc/" (21585 15392 0 0) "yow.lines" "WHY-FREE" "tutorials/" "TODO" "themes/" "THE-GNU-PROJECT" "TERMS" "srecode/" "spook.lines" "sex.6" "ses-example.ses" "SERVICE" "schema/" "rgb.txt" "refcards/" "README" "publicsuffix.txt" "ps-prin1.ps" "ps-prin0.ps" "PROBLEMS" "ORG-NEWS" "org/" "ORDERS" "NXML-NEWS" "nxml/" "NEXTSTEP" "NEWS.23" "NEWS.22" "NEWS.21" "NEWS.20" "NEWS.19" "NEWS.18" "NEWS.1-17" "NEWS" "MOTIVATION" "MORE.STUFF" "MH-E-NEWS" "MAILINGLISTS" "MACHINES" "LINUX-GNU" "JOKES" "INTERVIEW" "images/" "HELLO" "grep.txt" "gnus-tut.txt" "GNUS-NEWS" "gnus/" "GNU" "future-bug" "FTP" "forms/" "ETAGS.README" "ETAGS.EBNF" "ERC-NEWS" "enriched.doc" "emacs.icon" "emacs.desktop" "emacs-buffer.gdb" "edt-user.el" "echo.msg" "e/" "DOC-24.3.1" "DISTRIB" "DEVEL.HUMOR" "DEBUG" "copying.paper" "COPYING" "COOKIES" "CONTRIBUTE" "condom.1" "compilation.txt" "charsets/" "CENSORSHIP" "celibacy.1" "AUTHORS" "../" "./")
 
@@ -35,10 +86,6 @@
  ("/Users/rich/workspace/carbon/app/assets/" (21094 62237 0 0) "stylesheets/" "javascripts/" "images/" ".DS_Store" "../" "./")
 
  ("/Users/rich/workspace/" (21226 49770 0 0) "tpp/" "ticketevolution-ruby/" "ticketevo.vim/" "teconnect/" "tags" "simple_server.js" "seatgeek/" "pos.rb/" "ordererrors/" "notes/" "iplookup/" "exchange/" "evochat/" "elixirchat/" "disk_usage.txt" "developer_support/" "dashboard/" "config/" "chrome-extension/" "cheaptickets/" "carbon/" "apic/" ".DS_Store" "../" "./")
-
- ("/Users/rich/workspace/carbon/app/" (21231 48912 0 0) "views/" "uploaders/" "presenters/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
-
- ("/Users/rich/workspace/carbon/" (21260 60899 0 0) "vendor/" "tmp/" "tags" "spec/" "script/" "README.md" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "features/" "doc/" "db/" "config.ru" "config/" "Capfile" "app/" ".ruby-version" ".ruby-gemset" ".rspec" ".gitignore" ".git/" ".DS_Store" ".bundle/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

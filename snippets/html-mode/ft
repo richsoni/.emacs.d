@@ -1,0 +1,6 @@
+# -*- mode: rhtml; require-final-newline: nil; backup-inhibited: t -*-
+#name: <footer></footer>
+# --
+<footer>
+  $0
+</footer>

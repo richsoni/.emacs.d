@@ -12,12 +12,19 @@
       magit
       smex
       scpaste
-   ))
+   )
+)
+
  (package-initialize)
  (dolist (p my-packages)
    (when (not (package-installed-p p))
      (package-install p)))
+(global-set-key (kbd "M-x") 'smex)
+(global-set-key (kbd "M-X") 'smex-major-mode-commands)
+;; This is your old M-x.
+(global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
 
-; (setq ido-everywhere t)
-; (global-set-key (kbd "M-x") 'smex)
-; (global-set-key (kbd "M-X") 'smex-major-mode-commands)
+(global-set-key (kbd "C-?") 'help-command)
+(global-set-key (kbd "M-?") 'mark-paragraph)
+(global-set-key (kbd "C-h") 'delete-backward-char)
+(global-set-key (kbd "M-h") 'backward-kill-word)

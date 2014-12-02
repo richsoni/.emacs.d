@@ -1,0 +1,9 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/rich/.emacs.d/elpa/find-file-in-project-3.3/find-file-in-project-autoloads.el" . 1059)
+ ("/Users/rich/.emacs.d/elpa/htmlize-1.39/htmlize-autoloads.el" . 2849)
+ ("/Users/rich/.emacs.d/elpa/idle-highlight-mode-1.1.2/idle-highlight-mode-autoloads.el" . 477)
+ ("/Users/rich/.emacs.d/elpa/ido-ubiquitous-2.10/ido-ubiquitous-autoloads.el" . 1286)
+ ("/Users/rich/.emacs.d/elpa/magit-1.2.2/magit-autoloads.el" . 4491)
+ ("/Users/rich/.emacs.d/elpa/paredit-22/paredit-autoloads.el" . 712)
+ ("/Users/rich/.emacs.d/elpa/scpaste-0.6.3/scpaste-autoloads.el" . 666)
+ ("/Users/rich/.emacs.d/elpa/smex-3.0/smex-autoloads.el" . 378))

@@ -1,3 +1,9 @@
+
+(defun backward-kill-line (arg)
+    "Kill ARG lines backward."
+      (interactive "p")
+        (kill-line (- 1 arg)))
+
 (require 'package)
 
 (add-to-list 'package-archives '("marmalade" . "https://marmalade-repo.org/packages/"))
@@ -34,4 +40,5 @@
 (global-set-key (kbd "C-h") 'delete-backward-char)
 (global-set-key (kbd "M-h") 'backward-kill-word)
 (define-key global-map (kbd "RET") 'newline-and-indent)
-
+(setq make-backup-files nil)
+(global-set-key "\C-u" 'backward-kill-line)

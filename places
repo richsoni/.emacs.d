@@ -1,6 +1,5 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/rich/.emacs.d/elpa/coffee-mode-0.4.1.1/coffee-mode-autoloads.el" . 531)
- ("/Users/rich/.emacs.d/elpa/find-file-in-project-3.3/find-file-in-project-autoloads.el" . 1059)
+(("/Users/rich/.emacs.d/elpa/find-file-in-project-3.3/find-file-in-project-autoloads.el" . 1059)
  ("/Users/rich/.emacs.d/elpa/htmlize-1.39/htmlize-autoloads.el" . 2849)
  ("/Users/rich/.emacs.d/elpa/idle-highlight-mode-1.1.2/idle-highlight-mode-autoloads.el" . 477)
  ("/Users/rich/.emacs.d/elpa/ido-ubiquitous-2.10/ido-ubiquitous-autoloads.el" . 1286)
@@ -8,7 +7,7 @@
  ("/Users/rich/.emacs.d/elpa/paredit-22/paredit-autoloads.el" . 712)
  ("/Users/rich/.emacs.d/elpa/scpaste-0.6.3/scpaste-autoloads.el" . 675)
  ("/Users/rich/.emacs.d/elpa/smex-3.0/smex-autoloads.el" . 380)
- ("/Users/rich/.emacs.d/init.el" . 393)
+ ("/Users/rich/.emacs.d/init.el" . 120)
  ("/Users/rich/nag/lib/nag.lisp" . 1437)
  ("/Users/rich/nag/nag" . 98)
  ("/Users/rich/quicklinks/notes/books/ansi-common-lisp/chapters/8/README.md" . 3)

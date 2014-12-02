@@ -1,3 +1,6 @@
+# Install Slime
+http://www.mohiji.org/2011/01/31/modern-common-lisp-on-linux/
+
 # Jim Weirich's Emacs Setup
 
 This is my emacs setup.  It is currently based on the Emacs Starter
